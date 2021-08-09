@@ -11,7 +11,7 @@
         "command": "commit-type.addCommitType",
         "icon": {
           "dark": "./static/images/icon-dark.png",
-          "light": "./static/images/icon-light.jpg"
+          "light": "./static/images/icon-light.png"
         },
         "title": "Add Commit Type"
       }
@@ -79,5 +79,5 @@
     "vscode:prepublish": "npm run compile",
     "watch": "tsc -watch -p ./"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
